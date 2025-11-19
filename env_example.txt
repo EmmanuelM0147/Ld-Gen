@@ -1,0 +1,22 @@
+# Database Configuration
+# Copy this file to .env and fill in your actual values
+
+# PostgreSQL Configuration
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=business_contacts
+DB_USER=postgres
+DB_PASSWORD=your_password_here
+
+# Scraping Configuration
+SCRAPING_DELAY=2
+MAX_RETRIES=3
+REQUEST_TIMEOUT=30
+MAX_RESULTS_PER_SOURCE=100
+
+# Proxy Configuration (optional)
+USE_PROXIES=false
+# PROXY_LIST=http://proxy1:port,http://proxy2:port
+
+# User Agent Configuration
+USE_ROTATING_USER_AGENTS=true
