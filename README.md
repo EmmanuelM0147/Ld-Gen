@@ -1,17 +1,17 @@
-# 🚀 **LdPy - Comprehensive B2B Lead Generation & Sales Engagement Platform**
+# **LdPy - Comprehensive B2B Lead Generation & Sales Engagement Platform**
 
 A powerful, enterprise-grade platform designed to help businesses find, engage, and close more customers through verified contact data, intelligent lead generation, and multi-channel sales outreach.
 
-## ✨ **Key Features**
+##  **Key Features**
 
-### 🔍 **Advanced Lead Generation**
+### **Advanced Lead Generation**
 - **Multi-source prospecting** from Google, LinkedIn, Yellow Pages, and more
 - **Real-time lead generation** with live progress updates
 - **Intelligent filtering** by industry, company size, location, and technology stack
 - **Bulk lead generation** with customizable parameters
 - **Persistent lead storage** that survives browser sessions
 
-### 🌐 **Web Scraping & Data Extraction**
+###  **Web Scraping & Data Extraction**
 - **Multi-source scraping** from Google Maps, LinkedIn, Yelp, Yellow Pages, Crunchbase, and job boards
 - **Contact page extraction** for emails, phones, and addresses from company websites
 - **Anti-detection features** with rotating user agents, proxy rotation, and stealth mode
@@ -19,7 +19,7 @@ A powerful, enterprise-grade platform designed to help businesses find, engage, 
 - **Structured data storage** with deduplication and raw data preservation
 - **Performance monitoring** with success rates and response time tracking
 
-### ✅ **Contact Verification & Data Enrichment**
+###  **Contact Verification & Data Enrichment**
 - **Multi-provider verification** using Hunter.io, Clearbit, ZeroBounce, and more
 - **Email validation** with confidence scoring
 - **Phone number verification** via Twilio and Numverify
@@ -27,7 +27,7 @@ A powerful, enterprise-grade platform designed to help businesses find, engage, 
 - **Technology stack detection** and company insights
 - **Funding information** and growth stage analysis
 
-### 📧 **Multi-Channel Sales Engagement**
+###  **Multi-Channel Sales Engagement**
 - **Email campaigns** with personalized templates and tracking
 - **LinkedIn outreach** with connection requests and messaging
 - **Phone call scheduling** and follow-up management
@@ -35,7 +35,7 @@ A powerful, enterprise-grade platform designed to help businesses find, engage, 
 - **Response tracking** and engagement analytics
 - **CRM integration** for seamless workflow management
 
-### 🎯 **Sales Campaign Management**
+###  **Sales Campaign Management**
 - **Campaign creation** with target audience segmentation
 - **Outreach sequences** with customizable steps and delays
 - **Template management** for emails and LinkedIn messages
@@ -51,7 +51,7 @@ A powerful, enterprise-grade platform designed to help businesses find, engage, 
 - **Bidirectional sync** for real-time data consistency
 - **Custom field mapping** for seamless integration
 
-### 📊 **Advanced Analytics & Reporting**
+###  **Advanced Analytics & Reporting**
 - **Lead generation metrics** with qualification and conversion rates
 - **Sales performance analytics** with win rates and revenue tracking
 - **Campaign performance** with open rates, click rates, and engagement
@@ -59,7 +59,7 @@ A powerful, enterprise-grade platform designed to help businesses find, engage, 
 - **Custom dashboards** with real-time data visualization
 - **Export capabilities** in CSV, Excel, and JSON formats
 
-### 🛡️ **Data Quality & Security**
+###  **Data Quality & Security**
 - **Verified contact information** with confidence scoring
 - **Data freshness** with automatic re-verification
 - **Duplicate detection** and intelligent merging
@@ -67,7 +67,7 @@ A powerful, enterprise-grade platform designed to help businesses find, engage, 
 - **Secure API access** with rate limiting and authentication
 - **Audit logging** for all data operations
 
-## 🏗️ **Architecture Overview**
+##  **Architecture Overview**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -99,7 +99,7 @@ A powerful, enterprise-grade platform designed to help businesses find, engage, 
 └─────────────────────────────────────────────────────────────┘
 ```
 
-## 🚀 **Quick Start Guide**
+##  **Quick Start Guide**
 
 ### 1. **Prerequisites**
 - Node.js 16+ and npm
@@ -159,7 +159,7 @@ npm start
 # Check console for successful Supabase connection
 ```
 
-**📚 Detailed Setup Guide**: See `backend/SUPABASE_SETUP.md` for complete instructions.
+** Detailed Setup Guide**: See `backend/SUPABASE_SETUP.md` for complete instructions.
 
 ### 5. **Start the Application**
 
@@ -177,7 +177,7 @@ The application will be available at:
 - **Frontend**: http://localhost:3000
 - **Backend API**: http://localhost:5000
 
-## 📋 **API Endpoints**
+##  **API Endpoints**
 
 ### **Lead Generation**
 - `POST /api/lead-prospecting/start` - Start lead prospecting
@@ -254,7 +254,7 @@ The application will be available at:
 }
 ```
 
-## 📊 **Performance Metrics**
+##  **Performance Metrics**
 
 ### **Lead Generation KPIs**
 - **Lead Volume**: Total leads generated per period
@@ -277,7 +277,7 @@ The application will be available at:
 - **Customer Lifetime Value**: Long-term revenue per customer
 - **Payback Period**: Time to recover customer acquisition costs
 
-## 🔒 **Security & Compliance**
+##  **Security & Compliance**
 
 ### **Data Protection**
 - **Encryption at rest** for sensitive data
@@ -300,7 +300,7 @@ The application will be available at:
 - **IP whitelisting** for sensitive endpoints
 - **Request logging** for security monitoring
 
-## 🚀 **Deployment Options**
+##  **Deployment Options**
 
 ### **Local Development**
 ```bash
@@ -325,7 +325,7 @@ docker build -t ldpy-frontend ./dashboard
 - **Azure**: Deploy with App Service or Container Instances
 - **Heroku**: Simple deployment with git push
 
-## 🤝 **Contributing**
+##  **Contributing**
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
@@ -347,18 +347,12 @@ git push origin feature/amazing-feature
 # Create a Pull Request
 ```
 
-## 📄 **License**
+##  **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 **Support & Community**
 
-- **Documentation**: [docs.ldpy.com](https://docs.ldpy.com)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ldpy/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ldpy/discussions)
-- **Email**: support@ldpy.com
-
-## 🙏 **Acknowledgments**
+##  **Acknowledgments**
 
 - **Data Providers**: Hunter.io, Clearbit, ZeroBounce, Twilio, Crunchbase
 - **CRM Platforms**: Salesforce, HubSpot, Pipedrive, Zoho
@@ -366,6 +360,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ for sales teams and business growth**
+**Built with innovation for sales teams and business growth**
 
 *Transform your lead generation and sales engagement with LdPy - the comprehensive B2B platform that delivers verified results.*
